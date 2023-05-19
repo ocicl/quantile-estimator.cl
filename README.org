@@ -1,0 +1,11 @@
+* quantile-estimator.cl
+
+Common Lisp implementation of Graham Cormode and S. Muthukrishnan's
+Effective Computation of Biased Quantiles over Data Streams in
+ICDE’05.
+
+|---------+---------------------------------------------------------------------------------------------|
+| source  | file:https://github.com/deadtrickster/quantile-estimator.cl/archive/refs/tags/v0.0.1.tar.gz |
+| version | 0.0.1                                                                                       |
+| systems | quantile-estimator                                                                          |
+|---------+---------------------------------------------------------------------------------------------|
